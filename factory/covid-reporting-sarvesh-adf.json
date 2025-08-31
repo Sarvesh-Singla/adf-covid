@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-sarvesh-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c5521201-3d06-4ac2-a023-20ed1a1dc702",
+		"tenantId": "7becdedf-6ac2-4c16-91d1-649f381aeffe"
+	}
+}
